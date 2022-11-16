@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10a07258.css",
+    "main.js": "/static/js/main.677d2a07.js",
+    "static/media/imagen_01.png": "/static/media/imagen_01.4ed3b8a074ead07ae403.png",
+    "static/media/salmon_y_guacamole.png": "/static/media/salmon_y_guacamole.c213d9d8972f197fa76b.png",
+    "static/media/pulled_pork_bbq.png": "/static/media/pulled_pork_bbq.35dd9e25bb0cc0692300.png",
+    "static/media/vegetal_atun.png": "/static/media/vegetal_atun.fb7b25a8526d2d240eb7.png",
+    "static/media/jamon_iberico.png": "/static/media/jamon_iberico.d89f12ca4062263416a1.png",
+    "static/media/pollo_asado_brie.png": "/static/media/pollo_asado_brie.5d5c74bfa0f86c5ef043.png",
+    "static/media/lomo_y_queso.png": "/static/media/lomo_y_queso.c6870d333a0d7f37a5be.png",
+    "static/media/chorizo.png": "/static/media/chorizo.4cd5f707e7084021e681.png",
+    "static/media/pechuga_de_pollo.png": "/static/media/pechuga_de_pollo.5892ee97b226dcb735b0.png",
+    "static/media/ternera.png": "/static/media/ternera.36b773dbc33ec681c2c6.png",
+    "static/media/pollo_y_bacon.png": "/static/media/pollo_y_bacon.a16e2699311d8ad64fdf.png",
+    "static/media/calamares.png": "/static/media/calamares.da68e2dcd50b2588b169.png",
+    "static/media/tortilla.png": "/static/media/tortilla.c02188d0acc90c0af906.png",
+    "static/media/spinner.gif": "/static/media/spinner.706124a2c0232f216d63.gif",
+    "static/media/bocadillo.png": "/static/media/bocadillo.089b99f6c64674fab699.png",
+    "index.html": "/index.html",
+    "main.10a07258.css.map": "/static/css/main.10a07258.css.map",
+    "main.677d2a07.js.map": "/static/js/main.677d2a07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10a07258.css",
+    "static/js/main.677d2a07.js"
+  ]
+}
